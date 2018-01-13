@@ -1,0 +1,6 @@
+framework module Pods_jetRubyDribbbleApp {
+  umbrella header "Pods-jetRubyDribbbleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
